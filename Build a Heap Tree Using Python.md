@@ -27,9 +27,9 @@ def heaptree(H):
     print("The created Heap is",H)
 ```
 
-## OUTPUT
+## OUTPUT:
 <img width="824" height="115" alt="image" src="https://github.com/user-attachments/assets/71d5788f-0d7f-49d8-8d50-f1b26c3603a9" />
 
 
-## RESULT
+## RESULT:
 Thus the Python program to build a heap tree using appropriate Python package and function has been implemented and executed successfully.
