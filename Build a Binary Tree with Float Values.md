@@ -16,7 +16,7 @@ To write a Python program to build a binary tree with a root, left, and right no
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 
 ```python
 
@@ -31,9 +31,9 @@ root.right=Node(l[2])
 print("List of nodes :",list(root))
 ```
 
-## OUTPUT
+## OUTPUT:
 <img width="806" height="146" alt="image" src="https://github.com/user-attachments/assets/f9891214-32bd-43a4-a6bc-896d0e06959a" />
 
 
-## RESULT
+## RESULT:
 Thus the Python program to build a binary tree with a root, left, and right node using floating-point values has been implemented and executed successfully.
