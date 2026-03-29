@@ -30,9 +30,9 @@ print(t.postorder)
 
 ```
 
-## OUTPUT
+## OUTPUT:
 <img width="810" height="109" alt="image" src="https://github.com/user-attachments/assets/ab12b666-eeff-42f5-8864-463b56057f2e" />
 
 
-## RESULT
+## RESULT:
 Thus the Python program to build the given expression tree and print the inorder and postorder traversals has been implemented and executed successfully.
